@@ -1,4 +1,4 @@
-% 6/23/26; 10pm; darsh
+% 6/23/26;
 
 % this code accompanies the SIR w/ Hospitalization + Death coupled group behavior
 % model; the study focuses on the COVID outbreak across New York City from
